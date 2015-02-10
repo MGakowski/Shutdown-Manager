@@ -9,7 +9,7 @@ int setHour = 1;
 int setMin = 0;
 int click = 0;
 int activated = 0;
-String program = "C:/Users/Cyph3r/Documents/Processing/Cyph3r's Processes/ShutdownManager/works.png";
+String program = "C:/shutdown.bat";
 
 void draw() {
   clock();
